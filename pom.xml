@@ -26,8 +26,8 @@
     <repositories>
            <repository>
                   <id>github</id>
-                  <name>GitHub OWNER Apache Maven Packages</name>
-                  <url>https://maven.pkg.github.com/YOUR_USERNAME/YOUR_REPOSITORY</url>
+                  <name>GitHub Packages for Security Config</name>
+                  <url>https://maven.pkg.github.com/TahsimAkram/securityConfig</url>
                   </repository>
     </repositories>
 
